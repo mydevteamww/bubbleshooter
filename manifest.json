@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "ChronoBit Studios",
+  "description": "Nexus Nova Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Bubble Shooter V1",
+  "name": "Bubble Shooter:V1",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Bubble Shooter V1",
+  "short_name": "Bubble Shooter:V1",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Bubble Shooter V1",
+      "name": "Bubble Shooter:V1",
       "url": "",
       "description": ""
     }
